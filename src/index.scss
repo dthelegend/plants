@@ -1,0 +1,11 @@
+@import 'node_modules/bootstrap/scss/bootstrap';
+
+#root {
+  width: 100vw;
+  height: 100vh;
+}
+
+$theme-colors: (
+  'primary': teal,
+  'secondary': green
+);
